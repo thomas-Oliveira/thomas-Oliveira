@@ -1,10 +1,8 @@
 <div align="center">
-  <h1>Oi! Eu sou o Thomás</h1>
-  
-  Eterno aprendiz e estudante de ciencia de dados, Atualmente trabalhando como analista de banco de dados. 
+
+#### Eterno aprendiz e estudante de ciencia de dados, Atualmente trabalhando como analista de banco de dados.
 
 </div>
-
 <div align="center">
   <a href="https://github.com/thomas-Oliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomas-Oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,11 +14,12 @@
   <img align="center" alt="Th-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Th-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Th-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Th-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Th-docker" height"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Th-docker" height"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Th-firebase" height"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Th-firebase" height"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Th-firebase" height"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Th-mongodb" height"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Th-postgres" height"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   
   ##
  

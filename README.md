@@ -1,6 +1,6 @@
 <div align="center">
 
-#### Eterno aprendiz e estudante de ciencia de dados, Atualmente trabalhando como analista de banco de dados.
+#### Eterno aprendiz, Atualmente trabalhando como Engenheiro de dados.
 
 </div>
 <div align="center">

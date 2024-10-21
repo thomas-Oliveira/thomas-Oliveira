@@ -24,7 +24,6 @@
   ##
  
 <div align="center"> 
-  <a href="https://www.instagram.com/_tomplus/" target="_blank"><img height"30" width="40" src="https://img.icons8.com/doodle/2x/instagram.png" target="_blank"></a>
   <a href = "mailto:thomas_oliveira@outlook.com"><img height"30" width="40" src="https://img.icons8.com/doodle/2x/ms-outlook.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thomas-oliveira2/" target="_blank"><img height"30" width="40" src="https://img.icons8.com/doodle/2x/linkedin--v2.png" target="_blank"></a> 
  <br>
